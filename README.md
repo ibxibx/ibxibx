@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting, innovative, life-improving and profitable projects!  I'm very inquisitive and your Feedback & Ideas are precious!
 - 📫 How to reach me: via PM/DM / magnyt@gmail.com / new developer site with email coming soon.
 - 😄 Pronouns: He ofcourse.  
-- ⚡ Fun fact: I'm a living and walking embodyment of breaking stereotypes and expanding people's minds and souls. Remember: philosophy!
+- ⚡ Fun fact: I'm a living and walking embodiment of breaking stereotypes and expanding people's minds and souls. Remember: Philosophy!
 
 <!---
 ibxibx/ibxibx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
