@@ -5,80 +5,33 @@
 [![Email](https://img.shields.io/badge/Email-ian%40ianworks.dev-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ian@ianworks.dev)
 
 ## About Me 👨‍💻
-
 Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entrepreneurship, and technology. Career Foundry graduate based in Berlin, passionate about creating innovative digital solutions that solve real-world problems.
 
 ## Tech Stack 🛠️
+**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-<div align="left">
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Methodologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
-</div>
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white) ![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
 ## My Journey 🚀
+**🌍 Global Perspective:** World traveler (4 countries, 5 continents, 250+ cities). This shaped my view on technology's role across cultures. Hobbies: sailing, rock climbing, volleyball, filming.
 
-### 🌍 Global Perspective
-A world traveler who has lived in 4 countries and explored all 5 continents, visiting over 250 cities. This global exposure has shaped my perspective on technology's role in connecting and improving lives across cultures. Besides travel, I enjoy sailing, rock climbing, volleyball, and filming.
+**🎨 From Arts to Tech:** Started in fine arts with a degree in art education. My passion for computers and gaming evolved into digital and interior design—forming the foundation for my tech career.
 
-### 🎨 From Arts to Tech
-My journey began in fine arts with a natural talent for drawing and painting, leading to a degree in art education. Growing up alongside the digital revolution, my passion for computers and gaming evolved into exploring digital and interior design—forming the creative foundation for my entry into the tech world.
+**💼 Startup Adventures:** Co-founded three startups, managing real estate portfolios across Europe and USA. Working with developers sparked my fascination with software development.
 
-### 💼 Startup Adventures
-The intersection of creativity and technology led me to co-found three startups, managing and marketing diverse real estate portfolios across Europe and the USA. Working closely with developers within the tech ecosystem sparked a deeper fascination with software development.
+**👨‍💻 Embracing Development:** Career Foundry Full Stack Development graduate with expertise in React, JavaScript, Node.js, and Angular. My design and marketing background brings a unique perspective to user-centric solutions.
 
-### 👨‍💻 Embracing Development
-Recently graduating from Career Foundry's Full Stack Development program, I've built a strong foundation in coding with expertise in React, JavaScript, Node.js, and Angular. My unique background in design and marketing brings a valuable perspective to creating user-centric solutions.
+## Current Focus & Interests 🔭
+**Currently:** Deepening JavaScript/backend knowledge 🌱 • Practicing for efficient development 💻 • Learning testing & analytics 📊 • Exploring AI & automation 🤖
 
-## Current Focus 🔭
-
-I'm currently:
-- 🌱 Deepening my knowledge in JavaScript and backend technologies
-- 💻 Practicing to achieve mastery for efficient development
-- 📊 Learning more about testing, evaluation, and user analytics
-- 🤖 Exploring AI and automation technologies
-
-## Fields of Interest 💡
-
-I'm particularly interested in:
-- 🧠 AI-Tech
-- 🧬 Bio-Tech
-- 💰 Fin-Tech
-- 🚗 Automotive
-- ❤️ Health-Tech
-- 🤖 Robotics
-- 📱 Media-Tech
+**Interests:** AI-Tech 🧠 • Bio-Tech 🧬 • Fin-Tech 💰 • Automotive 🚗 • Health-Tech ❤️ • Robotics 🤖 • Media-Tech 📱
 
 ## Let's Connect! 🤝
+Looking to collaborate on innovative, life-improving projects! 📫 ian@ianworks.dev • 😄 He/Him • ⚡ Fun fact: I'm a living embodiment of breaking stereotypes and expanding minds. Remember: Philosophy!
 
-I'm looking to collaborate on interesting, innovative, life-improving, and profitable projects! I'm very inquisitive, and your feedback and ideas are precious.
-
-- 📫 Reach me at: ian@ianworks.dev
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a living and walking embodiment of breaking stereotypes and expanding people's minds and souls. Remember: Philosophy!
-
-<div align="center">
-
-*"The intersection of technology and creativity is where innovation thrives."*
-
-</div>
-
+<div align="center"><i>"The intersection of technology and creativity is where innovation thrives."</i></div>
 
 <!---
 ibxibx/ibxibx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
