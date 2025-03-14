@@ -73,11 +73,7 @@ I'm looking to collaborate on interesting, innovative, life-improving, and profi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a living and walking embodiment of breaking stereotypes and expanding people's minds and souls. Remember: Philosophy!
 
----
-
 <div align="center">
-
-[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-View-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibxibx)
 
 *"The intersection of technology and creativity is where innovation thrives."*
 
