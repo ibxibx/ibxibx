@@ -4,17 +4,17 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianworks.dev-1A1B27?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://ianworks.dev)
 [![Email](https://img.shields.io/badge/Email-ian%40ianworks.dev-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ian@ianworks.dev)
 
-## About Me 👨‍💻
+👨‍💻 ## About Me 
 Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entrepreneurship, and technology. Career Foundry graduate based in Berlin, passionate about creating innovative digital solutions that solve real-world problems.
 
-## Tech Stack 🛠️
+🛠️ ## Tech Stack 
 **Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white) ![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
-## My Journey 🚀
+🚀 ## My Journey 
 **🌍 Global Perspective:** World traveler (4 countries, 5 continents, 250+ cities). This shaped my view on technology's role across cultures. Hobbies: sailing, rock climbing, volleyball, filming.
 
 **🎨 From Arts to Tech:** Started in fine arts with a degree in art education. My passion for computers and gaming evolved into digital and interior design—forming the foundation for my tech career.
@@ -28,7 +28,7 @@ Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entr
 
 **Interests:** AI-Tech 🧠 • Bio-Tech 🧬 • Fin-Tech 💰 • Automotive 🚗 • Health-Tech ❤️ • Robotics 🤖 • Media-Tech 📱
 
-## Let's Connect! 🤝
+🤝 ## Let's Connect! 
 Looking to collaborate on innovative, life-improving projects! 📫 ian@ianworks.dev • 😄 He/Him • ⚡ Fun fact: I'm a living embodiment of breaking stereotypes and expanding minds. Remember: Philosophy!
 
 <div align="center"><i>"The intersection of technology and creativity is where innovation thrives."</i></div>
