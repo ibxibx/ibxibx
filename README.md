@@ -1,17 +1,11 @@
 # Ian Baumeister | Full-Stack Developer 
-
 ![Full Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-1A1B27?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianworks.dev-1A1B27?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://ianworks.dev)
 [![Email](https://img.shields.io/badge/Email-ian%40ianworks.dev-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ian@ianworks.dev)
-
 ## About Me 👨‍💻
-
 Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entrepreneurship, and technology. Career Foundry graduate based in Berlin, passionate about creating innovative digital solutions that solve real-world problems.
-
 ## Tech Stack 🛠️
-
 <div align="left">
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,17 +13,14 @@ Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### Tools & Methodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
 </div>
 
 ## My Journey 🚀
