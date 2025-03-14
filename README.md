@@ -1,10 +1,10 @@
-# Ian Baumeister | Full-Stack Developer 👨‍💻
+# Ian Baumeister | Full-Stack Developer 
 
 ![Full Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-1A1B27?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ianworks.dev-1A1B27?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://ianworks.dev)
 [![Email](https://img.shields.io/badge/Email-ian%40ianworks.dev-1A1B27?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ian@ianworks.dev)
 
-## About Me 🌟
+## About Me 👨‍💻
 
 Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entrepreneurship, and technology. Career Foundry graduate based in Berlin, passionate about creating innovative digital solutions that solve real-world problems.
 
