@@ -1,8 +1,8 @@
 # Ian Baumeister | Full-Stack Developer 👨‍💻
 
-![Banner](https://img.shields.io/badge/Full--Stack-Developer-0D1117?style=for-the-badge&logo=github&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ianworks.dev-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](https://ianworks.dev)
-[![Email](https://img.shields.io/badge/Email-ian%40ianworks.dev-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ian@ianworks.dev)
+![Full Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ianworks.dev-4285F4?style=for-the-badge&logo=firefox&logoColor=white)](https://ianworks.dev)
+[![Email](https://img.shields.io/badge/Email-ian%40ianworks.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ian@ianworks.dev)
 
 ## About Me 🌟
 
