@@ -15,7 +15,7 @@ Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entr
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white) ![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
 
 ## My Journey 🚀 
-**🌍 Global Perspective:** World traveler (4 countries, 5 continents, 250+ cities). This shaped my view on technology's role across cultures. Hobbies: sailing, rock climbing, volleyball, filming.
+**🌍 Global Perspective:** World traveler (lived in 4 countries, visited 5 continents, 250+ cities). This shaped my view on technology's role across cultures. Hobbies: sailing, rock climbing, volleyball, filming.
 
 **🎨 From Arts to Tech:** Started in fine arts with a degree in art education. My passion for computers and gaming evolved into digital and interior design—forming the foundation for my tech career.
 
