@@ -17,7 +17,7 @@ Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entr
 ## My Journey 🚀 
 **🌍 Global Perspective:** World traveler (lived in 4 countries, visited 5 continents, 250+ cities). This shaped my view on technology's role across cultures. Hobbies: sailing, rock climbing, volleyball, filming.
 
-**🎨 From Arts to Tech:** Started in fine arts with a degree in art education. My passion for computers and gaming evolved into digital and interior design—forming the foundation for my tech career.
+**🎨 From Arts to Tech:** Started in fine arts, graphic and interior design. My passion for computers and gaming evolved into passion for digital design and digital product - the foundation for my tech career.
 
 **💼 Startup Adventures:** Co-founded three startups, managing real estate portfolios across Europe and USA. Working with developers sparked my fascination with software development.
 
