@@ -7,7 +7,7 @@
 
 ## About Me 👨‍💻
 
-Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, entrepreneurship, and technology. Career Foundry graduate based in Berlin, passionate about creating innovative digital solutions that solve real-world problems.
+Hi, I'm Ian, a Full-Stack Developer with a unique background blending arts, design, entrepreneurship, and technology. Career Foundry graduate based in Berlin, passionate about creating innovative digital solutions that solve real-world problems.
 
 ---
 
