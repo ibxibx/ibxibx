@@ -1,4 +1,4 @@
-# Ian Baumeister | Full Stack Engineer focusing on LL-powered Systems
+# Ian Baumeister | Full Stack Engineer focusing on LLM-powered Systems
 
 ![Full Stack Engineer](https://img.shields.io/badge/Full--Stack-Developer-1A1B27?style=for-the-badge&logo=react&logoColor=61DAFB)
 
