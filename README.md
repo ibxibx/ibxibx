@@ -63,7 +63,7 @@ CRM systems (Apaleo, Pipedrive, Bitrix24, Mailchimp, Citrix), PowerShell, Comman
 
 ## Most Recent Projects 🏆
 
-### WorkScanAI – AI Workflow Automation Analyzer (2025) [`Demo`](https://workscanai.vercel.app)
+### WorkScanAI – AI Workflow Automation Analyzer (2025) <a href="https://workscanai.vercel.app" target="_blank">`Demo`</a>
 
 > **Ever wonder which parts of your job could run themselves?** WorkScanAI scans your workflow, identifies the tasks eating your time, and shows you exactly where AI could step in — complete with ROI estimates and a ready-to-use automation roadmap. Upload a document, speak your process, or type it out: in seconds you get a clear, actionable breakdown of what to automate first and why. Built for teams who want results, not just reports.
 
@@ -72,12 +72,12 @@ CRM systems (Apaleo, Pipedrive, Bitrix24, Mailchimp, Citrix), PowerShell, Comman
 
 ---
 
-### Jasmin Catering AI Agent (2025) [`GitHub`](https://github.com/ibxibx/jasmin-catering-ai-agent)
+### Jasmin Catering AI Agent (2025) <a href="https://github.com/ibxibx/jasmin-catering-ai-agent" target="_blank">`GitHub`</a>
 > **A cloud-native, AI-powered email automation platform** for the catering sector. Automated customer inquiry and offer generation with Azure OpenAI GPT-4o & RAG, leveraging a secure knowledge base for professional German-language communication. Integrated Azure Container Apps for scheduled IMAP fetching and SMTP responses, real-time Slack notifications, and robust DevOps with GitHub Actions and Docker.  
 **Stack:** Python, Azure OpenAI, Docker, IMAP/SMTP, Slack API, GitHub Actions.  
 **Key achievements:** Built operational transparency, secure automation pipeline, and scalable workflow integrating AI and cloud-native services.
 
-### FinPanel – Personal Finance Dashboard (Jan–Apr 2025) [`GitHub`](https://github.com/ibxibx/finpanel)
+### FinPanel – Personal Finance Dashboard (Jan–Apr 2025) <a href="https://github.com/ibxibx/finpanel" target="_blank">`GitHub`</a>
 > **Developed a web-based dashboard** for personal finance and investment management, as part of the #100DaysOfCode React.js challenge. Features real-time financial tracking, crypto portfolio monitoring, and savings goal management. Utilized React Context API, hooks, Tailwind CSS, and modern UI/UX principles.  
 **Stack:** React.js, JavaScript, Tailwind CSS.  
 **Key achievements:** Delivered a streamlined, mobile-ready interface for personal finance with data visualization and robust state management.
