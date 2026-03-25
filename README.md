@@ -63,6 +63,15 @@ CRM systems (Apaleo, Pipedrive, Bitrix24, Mailchimp, Citrix), PowerShell, Comman
 
 ## Most Recent Projects 🏆
 
+### WorkScanAI – AI Workflow Automation Analyzer (2025) [`Demo`](https://workscanai.com)
+
+> **Ever wonder which parts of your job could run themselves?** WorkScanAI scans your workflow, identifies the tasks eating your time, and shows you exactly where AI could step in — complete with ROI estimates and a ready-to-use automation roadmap. Upload a document, speak your process, or type it out: in seconds you get a clear, actionable breakdown of what to automate first and why. Built for teams who want results, not just reports.
+
+**Stack:** Next.js, React, TypeScript, FastAPI, Python, Claude AI (Anthropic).
+**Key achievements:** Voice input, DOCX/PDF export, animated real-time analysis, reCAPTCHA v3 security, and a full AI-powered scoring engine for ROI estimation and task prioritization.
+
+---
+
 ### Jasmin Catering AI Agent (2025) [`GitHub`](https://github.com/ibxibx/jasmin-catering-ai-agent)
 > **A cloud-native, AI-powered email automation platform** for the catering sector. Automated customer inquiry and offer generation with Azure OpenAI GPT-4o & RAG, leveraging a secure knowledge base for professional German-language communication. Integrated Azure Container Apps for scheduled IMAP fetching and SMTP responses, real-time Slack notifications, and robust DevOps with GitHub Actions and Docker.  
 **Stack:** Python, Azure OpenAI, Docker, IMAP/SMTP, Slack API, GitHub Actions.  
