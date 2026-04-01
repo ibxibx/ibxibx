@@ -63,7 +63,7 @@ CRM systems (Apaleo, Pipedrive, Bitrix24, Mailchimp, Citrix), PowerShell, Comman
 
 ## Most Recent Projects 🏆
 
-### WorkScanAI – AI Workflow Automation Analyzer (2025) <a href="https://workscanai.vercel.app" target="_blank">`Demo`</a>
+### WorkScanAI – AI Workflow Automation Analyzer (2026) <a href="https://workscanai.vercel.app" target="_blank">`Demo`</a>
 
 > **Ever wonder which parts of your job could run themselves?** WorkScanAI scans your workflow, identifies the tasks eating your time, and shows you exactly where AI could step in — complete with ROI estimates and a ready-to-use automation roadmap. Upload a document, speak your process, or type it out: in seconds you get a clear, actionable breakdown of what to automate first and why. Built for teams who want results, not just reports.
 
