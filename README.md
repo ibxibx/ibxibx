@@ -1,4 +1,4 @@
-# Ian Baumeister | Full Stack Engineer focusing on LLM-powered Systems
+# Ian Baumeister | Full Stack Engineer focusing on LLM-powered Systems | AI Product Engineer | Product Lead
 
 ![Full Stack Engineer](https://img.shields.io/badge/Full--Stack-Developer-1A1B27?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -51,13 +51,13 @@ Jest • Puppeteer • Cucumber • Gherkin (BDD) • Postman • Agile • Kanb
 React Native • Expo
 
 **Design & Office:**  
-Adobe Photoshop • Illustrator • InDesign • Figma • Adobe XD • AutoCAD LT • Dreamweaver • Blockadelabs • Midjourney
+Adobe Photoshop • Illustrator • InDesign • Figma • Adobe XD • AutoCAD LT • Blockadelabs • Midjourney
 
 **AI & Prompt Engineering:**  
 ChatGPT • Claude.ai • Gemini • DeepSeek • Cursor • Lovable
 
 **Other:**  
-CRM systems (Apaleo, Pipedrive, Bitrix24, Mailchimp, Citrix), PowerShell, Command Prompt, Visual Studio Code, Sound & Video Editing (Wondershare Filmora, Cool Edit Pro), Presentation (Word, PowerPoint, Acrobat).
+CRM systems (Apaleo, Pipedrive, Bitrix24, Mailchimp), PowerShell, Command Prompt, Visual Studio Code, Sound & Video Editing (Wondershare Filmora), Presentation (Word, PowerPoint, Acrobat).
 
 ---
 
